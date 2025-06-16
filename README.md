@@ -134,3 +134,5 @@ Control SolanaChecker using these command-line arguments:
 ## Licensing
 
 This project is licensed under the [MIT License](/LICENSE).  You have the freedom to use, modify, and distribute the code.
+
+Update: Menu links
